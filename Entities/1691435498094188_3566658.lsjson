@@ -1,0 +1,79 @@
+{
+    "1691435498086471:3566649": {
+        "IFileManager": {
+            "path": "Files/File_1691435498086471_3566649.pvr"
+        }
+    },
+    "1691435498094188:3566658": {
+        "IResourceController": {
+            "name": "france_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498095324:3566659",
+            "fileId": "1691435498086471:3566649",
+            "originalId": "1691435498095787:3566664",
+            "publicId": "1691435498114659:3566666",
+            "expected_hash": "a4a60a6b05a10245b7aa74b2321ab1ad",
+            "additional": {
+                "originHash": "1a3d62ba1c771f8dfea19f57d633b7fe"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498095324:3566659",
+            "name": "Files/File_1691435498086471_3566649.png",
+            "flags": 1
+        }
+    },
+    "1691435498095324:3566659": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1a3d62ba1c771f8dfea19f57d633b7fe"
+                    },
+                    "v": "1691435498445831:3567147"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2284",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3384",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498103498:3566665"
+        }
+    },
+    "1691435498095787:3566664": {
+        "IFileManager": {
+            "path": "Files/File_1691435498095787_3566664.png"
+        }
+    },
+    "1691435498103498:3566665": {
+        "IFileManager": {
+            "path": "Files/File_1691435498103498_3566665.png"
+        }
+    },
+    "1691435498114659:3566666": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/france_flag.png",
+                "hash": "1a3d62ba1c771f8dfea19f57d633b7fe"
+            }
+        }
+    },
+    "1691435498445831:3567147": {
+        "IFileManager": {
+            "path": "Files/File_1691435498445831_3567147.pvr"
+        }
+    }
+}

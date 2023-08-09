@@ -1,0 +1,91 @@
+{
+    "1691601982742530:4674960": {
+        "IFileManager": {
+            "path": "Files/File_1691601982742530_4674960.png"
+        }
+    },
+    "1691601982752052:4674969": {
+        "IResourceController": {
+            "name": "windy",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601982753170:4674970",
+            "fileId": "1691601982742530:4674960",
+            "originalId": "1691601982753813:4674975",
+            "publicId": "1691601982779518:4674985",
+            "expected_hash": "c603e89fd9eceb67ed0823a9bb72245b",
+            "additional": {
+                "originHash": "c603e89fd9eceb67ed0823a9bb72245b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601982753170:4674970",
+            "name": "Files/File_1691601982742530_4674960.png",
+            "flags": 1
+        }
+    },
+    "1691601982753170:4674970": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "c603e89fd9eceb67ed0823a9bb72245b"
+                    },
+                    "v": "1691602004705215:4696399"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c603e89fd9eceb67ed0823a9bb72245b"
+                    },
+                    "v": "1691601983246250:4677323"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36864",
+                "compressedSize": "2956",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2956",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601982763312:4674976"
+        }
+    },
+    "1691601982753813:4674975": {
+        "IFileManager": {
+            "path": "Files/File_1691601982753813_4674975.png"
+        }
+    },
+    "1691601982763312:4674976": {
+        "IFileManager": {
+            "path": "Files/File_1691601982763312_4674976.png"
+        }
+    },
+    "1691601982779518:4674985": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/windy.png",
+                "hash": "c603e89fd9eceb67ed0823a9bb72245b"
+            }
+        }
+    },
+    "1691601983246250:4677323": {
+        "IFileManager": {
+            "path": "Files/File_1691601983246250_4677323.pvr"
+        }
+    },
+    "1691602004705215:4696399": {
+        "IFileManager": {
+            "path": "Files/File_1691602004705215_4696399.png"
+        }
+    }
+}

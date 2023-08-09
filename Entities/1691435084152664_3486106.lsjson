@@ -1,0 +1,79 @@
+{
+    "1691435084145897:3486105": {
+        "IFileManager": {
+            "path": "Files/File_1691435084145897_3486105.pvr"
+        }
+    },
+    "1691435084152664:3486106": {
+        "IResourceController": {
+            "name": "china_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435084153741:3486107",
+            "fileId": "1691435084145897:3486105",
+            "originalId": "1691435084154240:3486112",
+            "publicId": "1691435084180506:3486119",
+            "expected_hash": "6702d6943d8d4fd587a576fb4c6c2a46",
+            "additional": {
+                "originHash": "b529dde91524435f8a36bb2de28f2363"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435084153741:3486107",
+            "name": "Files/File_1691435084145897_3486105.png",
+            "flags": 1
+        }
+    },
+    "1691435084153741:3486107": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b529dde91524435f8a36bb2de28f2363"
+                    },
+                    "v": "1691435084412812:3486174"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1930",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3135",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435084164587:3486113"
+        }
+    },
+    "1691435084154240:3486112": {
+        "IFileManager": {
+            "path": "Files/File_1691435084154240_3486112.png"
+        }
+    },
+    "1691435084164587:3486113": {
+        "IFileManager": {
+            "path": "Files/File_1691435084164587_3486113.png"
+        }
+    },
+    "1691435084180506:3486119": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/china_flag.png",
+                "hash": "b529dde91524435f8a36bb2de28f2363"
+            }
+        }
+    },
+    "1691435084412812:3486174": {
+        "IFileManager": {
+            "path": "Files/File_1691435084412812_3486174.pvr"
+        }
+    }
+}

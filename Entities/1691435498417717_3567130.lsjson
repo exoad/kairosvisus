@@ -1,0 +1,79 @@
+{
+    "1691435498409626:3567123": {
+        "IFileManager": {
+            "path": "Files/File_1691435498409626_3567123.pvr"
+        }
+    },
+    "1691435498417717:3567130": {
+        "IResourceController": {
+            "name": "argentina_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498418719:3567131",
+            "fileId": "1691435498409626:3567123",
+            "originalId": "1691435498419214:3567136",
+            "publicId": "1691435498438401:3567138",
+            "expected_hash": "4936a686a8ca8783dd943df51686f60f",
+            "additional": {
+                "originHash": "548a07c60f7f97a6444436e855097ccf"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498418719:3567131",
+            "name": "Files/File_1691435498409626_3567123.png",
+            "flags": 1
+        }
+    },
+    "1691435498418719:3567131": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "548a07c60f7f97a6444436e855097ccf"
+                    },
+                    "v": "1691435499237529:3568203"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2232",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3657",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498425068:3567137"
+        }
+    },
+    "1691435498419214:3567136": {
+        "IFileManager": {
+            "path": "Files/File_1691435498419214_3567136.png"
+        }
+    },
+    "1691435498425068:3567137": {
+        "IFileManager": {
+            "path": "Files/File_1691435498425068_3567137.png"
+        }
+    },
+    "1691435498438401:3567138": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/argentina_flag.png",
+                "hash": "548a07c60f7f97a6444436e855097ccf"
+            }
+        }
+    },
+    "1691435499237529:3568203": {
+        "IFileManager": {
+            "path": "Files/File_1691435499237529_3568203.pvr"
+        }
+    }
+}

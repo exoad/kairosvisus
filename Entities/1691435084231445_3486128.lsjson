@@ -1,0 +1,79 @@
+{
+    "1691435084224164:3486127": {
+        "IFileManager": {
+            "path": "Files/File_1691435084224164_3486127.pvr"
+        }
+    },
+    "1691435084231445:3486128": {
+        "IResourceController": {
+            "name": "canada_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435084232409:3486129",
+            "fileId": "1691435084224164:3486127",
+            "originalId": "1691435084232862:3486134",
+            "publicId": "1691435084252861:3486141",
+            "expected_hash": "b390b005784ca052b3a8f595ac3c34b9",
+            "additional": {
+                "originHash": "df970b0465e59d77fe664d7abab1ca8f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435084232409:3486129",
+            "name": "Files/File_1691435084224164_3486127.png",
+            "flags": 1
+        }
+    },
+    "1691435084232409:3486129": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "df970b0465e59d77fe664d7abab1ca8f"
+                    },
+                    "v": "1691435084581176:3486439"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2360",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3652",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435084238374:3486135"
+        }
+    },
+    "1691435084232862:3486134": {
+        "IFileManager": {
+            "path": "Files/File_1691435084232862_3486134.png"
+        }
+    },
+    "1691435084238374:3486135": {
+        "IFileManager": {
+            "path": "Files/File_1691435084238374_3486135.png"
+        }
+    },
+    "1691435084252861:3486141": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/canada_flag.png",
+                "hash": "df970b0465e59d77fe664d7abab1ca8f"
+            }
+        }
+    },
+    "1691435084581176:3486439": {
+        "IFileManager": {
+            "path": "Files/File_1691435084581176_3486439.pvr"
+        }
+    }
+}

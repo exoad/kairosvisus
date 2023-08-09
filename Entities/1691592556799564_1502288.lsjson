@@ -1,0 +1,20 @@
+{
+    "1691592556799564:1502288": {
+        "IResourceController": {
+            "name": "weather_type",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691592556799800:1502289",
+            "resources": []
+        }
+    },
+    "1691592556799800:1502289": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weather_type"
+            }
+        }
+    }
+}

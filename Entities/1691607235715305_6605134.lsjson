@@ -1,0 +1,33 @@
+{
+    "1691607235711176:6605131": {
+        "IFileManager": {
+            "path": "Files/File_1691607235711176_6605131.ttf"
+        }
+    },
+    "1691607235715305:6605134": {
+        "IResourceController": {
+            "name": "Poppins-Medium",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691607235715342:6605135",
+            "fileId": "1691607235711176:6605131",
+            "publicId": "1691607235716125:6605140",
+            "expected_hash": "bf59c687bc6d3a70204d3944082c5cc0"
+        },
+        "IResourceManager": {
+            "uid": "1691607235715342:6605135",
+            "name": "Files/File_1691607235711176_6605131.ttf",
+            "flags": 1
+        }
+    },
+    "1691607235716125:6605140": {
+        "IResourceController": {
+            "public": {
+                "path": "Poppins-Medium.ttf",
+                "hash": "bf59c687bc6d3a70204d3944082c5cc0"
+            }
+        }
+    }
+}

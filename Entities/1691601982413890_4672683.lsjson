@@ -1,0 +1,91 @@
+{
+    "1691601982406001:4672682": {
+        "IFileManager": {
+            "path": "Files/File_1691601982406001_4672682.png"
+        }
+    },
+    "1691601982413890:4672683": {
+        "IResourceController": {
+            "name": "hail",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601982415168:4672684",
+            "fileId": "1691601982406001:4672682",
+            "originalId": "1691601982415753:4672689",
+            "publicId": "1691601982443043:4672699",
+            "expected_hash": "7e0ee56bea13ff976f8262cbb766e1b8",
+            "additional": {
+                "originHash": "7e0ee56bea13ff976f8262cbb766e1b8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601982415168:4672684",
+            "name": "Files/File_1691601982406001_4672682.png",
+            "flags": 1
+        }
+    },
+    "1691601982415168:4672684": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "7e0ee56bea13ff976f8262cbb766e1b8"
+                    },
+                    "v": "1691602004620140:4696308"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7e0ee56bea13ff976f8262cbb766e1b8"
+                    },
+                    "v": "1691601982790096:4674986"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36864",
+                "compressedSize": "2408",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2408",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601982425075:4672690"
+        }
+    },
+    "1691601982415753:4672689": {
+        "IFileManager": {
+            "path": "Files/File_1691601982415753_4672689.png"
+        }
+    },
+    "1691601982425075:4672690": {
+        "IFileManager": {
+            "path": "Files/File_1691601982425075_4672690.png"
+        }
+    },
+    "1691601982443043:4672699": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/hail.png",
+                "hash": "7e0ee56bea13ff976f8262cbb766e1b8"
+            }
+        }
+    },
+    "1691601982790096:4674986": {
+        "IFileManager": {
+            "path": "Files/File_1691601982790096_4674986.pvr"
+        }
+    },
+    "1691602004620140:4696308": {
+        "IFileManager": {
+            "path": "Files/File_1691602004620140_4696308.png"
+        }
+    }
+}

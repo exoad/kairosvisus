@@ -1,0 +1,79 @@
+{
+    "1691436186309053:3817093": {
+        "IFileManager": {
+            "path": "Files/File_1691436186309053_3817093.pvr"
+        }
+    },
+    "1691436186316804:3817102": {
+        "IResourceController": {
+            "name": "russia_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691436186318603:3817103",
+            "fileId": "1691436186309053:3817093",
+            "originalId": "1691436186319422:3817108",
+            "publicId": "1691436186339479:3817110",
+            "expected_hash": "04591f1accfd26e4ae678398b70f3de1",
+            "additional": {
+                "originHash": "e5872f815d5ae373affd51aeb2305f1e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691436186318603:3817103",
+            "name": "Files/File_1691436186309053_3817093.png",
+            "flags": 1
+        }
+    },
+    "1691436186318603:3817103": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e5872f815d5ae373affd51aeb2305f1e"
+                    },
+                    "v": "1691436186547948:3818486"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1922",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2611",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691436186325831:3817109"
+        }
+    },
+    "1691436186319422:3817108": {
+        "IFileManager": {
+            "path": "Files/File_1691436186319422_3817108.png"
+        }
+    },
+    "1691436186325831:3817109": {
+        "IFileManager": {
+            "path": "Files/File_1691436186325831_3817109.png"
+        }
+    },
+    "1691436186339479:3817110": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/russia_flag.png",
+                "hash": "e5872f815d5ae373affd51aeb2305f1e"
+            }
+        }
+    },
+    "1691436186547948:3818486": {
+        "IFileManager": {
+            "path": "Files/File_1691436186547948_3818486.pvr"
+        }
+    }
+}

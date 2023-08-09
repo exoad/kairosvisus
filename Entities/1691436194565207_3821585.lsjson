@@ -1,0 +1,79 @@
+{
+    "1691436194558735:3821584": {
+        "IFileManager": {
+            "path": "Files/File_1691436194558735_3821584.pvr"
+        }
+    },
+    "1691436194565207:3821585": {
+        "IResourceController": {
+            "name": "spain_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691436194566714:3821586",
+            "fileId": "1691436194558735:3821584",
+            "originalId": "1691436194567415:3821591",
+            "publicId": "1691436194587361:3821593",
+            "expected_hash": "f7f98aa57360ba61f64723dd46d82c50",
+            "additional": {
+                "originHash": "11f7f15a9945343552e474b8b5df2b0d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691436194566714:3821586",
+            "name": "Files/File_1691436194558735_3821584.png",
+            "flags": 1
+        }
+    },
+    "1691436194566714:3821586": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "11f7f15a9945343552e474b8b5df2b0d"
+                    },
+                    "v": "1691436194726257:3821647"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1559",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2064",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691436194574873:3821592"
+        }
+    },
+    "1691436194567415:3821591": {
+        "IFileManager": {
+            "path": "Files/File_1691436194567415_3821591.png"
+        }
+    },
+    "1691436194574873:3821592": {
+        "IFileManager": {
+            "path": "Files/File_1691436194574873_3821592.png"
+        }
+    },
+    "1691436194587361:3821593": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/spain_flag.png",
+                "hash": "11f7f15a9945343552e474b8b5df2b0d"
+            }
+        }
+    },
+    "1691436194726257:3821647": {
+        "IFileManager": {
+            "path": "Files/File_1691436194726257_3821647.pvr"
+        }
+    }
+}

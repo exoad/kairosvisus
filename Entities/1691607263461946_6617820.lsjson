@@ -1,0 +1,33 @@
+{
+    "1691607263458247:6617819": {
+        "IFileManager": {
+            "path": "Files/File_1691607263458247_6617819.ttf"
+        }
+    },
+    "1691607263461946:6617820": {
+        "IResourceController": {
+            "name": "Lato-Black",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691607263461975:6617821",
+            "fileId": "1691607263458247:6617819",
+            "publicId": "1691607263462469:6617826",
+            "expected_hash": "d83ab24f5cf2be8b7a9873dd64f6060a"
+        },
+        "IResourceManager": {
+            "uid": "1691607263461975:6617821",
+            "name": "Files/File_1691607263458247_6617819.ttf",
+            "flags": 1
+        }
+    },
+    "1691607263462469:6617826": {
+        "IResourceController": {
+            "public": {
+                "path": "Lato-Black.ttf",
+                "hash": "d83ab24f5cf2be8b7a9873dd64f6060a"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "1691601983279429:4677340": {
+        "IFileManager": {
+            "path": "Files/File_1691601983279429_4677340.png"
+        }
+    },
+    "1691601983293091:4677341": {
+        "IResourceController": {
+            "name": "hot",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601983294119:4677342",
+            "fileId": "1691601983279429:4677340",
+            "originalId": "1691601983294697:4677347",
+            "publicId": "1691601983318206:4677357",
+            "expected_hash": "e010fabdb4119a3b4dd05f163810467b",
+            "additional": {
+                "originHash": "e010fabdb4119a3b4dd05f163810467b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601983294119:4677342",
+            "name": "Files/File_1691601983279429_4677340.png",
+            "flags": 1
+        }
+    },
+    "1691601983294119:4677342": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "e010fabdb4119a3b4dd05f163810467b"
+                    },
+                    "v": "1691602004822229:4696524"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e010fabdb4119a3b4dd05f163810467b"
+                    },
+                    "v": "1691601983558817:4677806"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9216",
+                "compressedSize": "1031",
+                "extension": "png",
+                "originalRAM": "9216",
+                "originalSize": "1031",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601983302528:4677349"
+        }
+    },
+    "1691601983294697:4677347": {
+        "IFileManager": {
+            "path": "Files/File_1691601983294697_4677347.png"
+        }
+    },
+    "1691601983302528:4677349": {
+        "IFileManager": {
+            "path": "Files/File_1691601983302528_4677349.png"
+        }
+    },
+    "1691601983318206:4677357": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/hot.png",
+                "hash": "e010fabdb4119a3b4dd05f163810467b"
+            }
+        }
+    },
+    "1691601983558817:4677806": {
+        "IFileManager": {
+            "path": "Files/File_1691601983558817_4677806.pvr"
+        }
+    },
+    "1691602004822229:4696524": {
+        "IFileManager": {
+            "path": "Files/File_1691602004822229_4696524.png"
+        }
+    }
+}

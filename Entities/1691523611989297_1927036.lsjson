@@ -1,0 +1,33 @@
+{
+    "1691523611984835:1927028": {
+        "IFileManager": {
+            "path": "Files/File_1691523611984835_1927028.ttf"
+        }
+    },
+    "1691523611989297:1927036": {
+        "IResourceController": {
+            "name": "VT323",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691523611989332:1927037",
+            "fileId": "1691523611984835:1927028",
+            "publicId": "1691523611990095:1927042",
+            "expected_hash": "d55abc3c7d1a4719dea9fa15ccec203f"
+        },
+        "IResourceManager": {
+            "uid": "1691523611989332:1927037",
+            "name": "Files/File_1691523611984835_1927028.ttf",
+            "flags": 1
+        }
+    },
+    "1691523611990095:1927042": {
+        "IResourceController": {
+            "public": {
+                "path": "VT323.ttf",
+                "hash": "d55abc3c7d1a4719dea9fa15ccec203f"
+            }
+        }
+    }
+}

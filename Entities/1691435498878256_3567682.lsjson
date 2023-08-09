@@ -1,0 +1,79 @@
+{
+    "1691435498869174:3567679": {
+        "IFileManager": {
+            "path": "Files/File_1691435498869174_3567679.pvr"
+        }
+    },
+    "1691435498878256:3567682": {
+        "IResourceController": {
+            "name": "england_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498880791:3567689",
+            "fileId": "1691435498869174:3567679",
+            "originalId": "1691435498881717:3567694",
+            "publicId": "1691435498907511:3567696",
+            "expected_hash": "a99ed87f5d9eb82f689c0bb29fb53574",
+            "additional": {
+                "originHash": "a8bb13741131a9cb383cc8957767ed7b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498880791:3567689",
+            "name": "Files/File_1691435498869174_3567679.png",
+            "flags": 1
+        }
+    },
+    "1691435498880791:3567689": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a8bb13741131a9cb383cc8957767ed7b"
+                    },
+                    "v": "1691435499939782:3568775"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2850",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "5141",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498890721:3567695"
+        }
+    },
+    "1691435498881717:3567694": {
+        "IFileManager": {
+            "path": "Files/File_1691435498881717_3567694.png"
+        }
+    },
+    "1691435498890721:3567695": {
+        "IFileManager": {
+            "path": "Files/File_1691435498890721_3567695.png"
+        }
+    },
+    "1691435498907511:3567696": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/england_flag.png",
+                "hash": "a8bb13741131a9cb383cc8957767ed7b"
+            }
+        }
+    },
+    "1691435499939782:3568775": {
+        "IFileManager": {
+            "path": "Files/File_1691435499939782_3568775.pvr"
+        }
+    }
+}

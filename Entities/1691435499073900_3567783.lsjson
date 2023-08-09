@@ -1,0 +1,79 @@
+{
+    "1691435499066188:3567782": {
+        "IFileManager": {
+            "path": "Files/File_1691435499066188_3567782.pvr"
+        }
+    },
+    "1691435499073900:3567783": {
+        "IResourceController": {
+            "name": "uruguay_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435499074946:3567784",
+            "fileId": "1691435499066188:3567782",
+            "originalId": "1691435499075553:3567789",
+            "publicId": "1691435499103955:3567799",
+            "expected_hash": "bbb3a122f8389e9a70f0583bdb38a5f1",
+            "additional": {
+                "originHash": "5d5dfcc604f0b0616f7471706cc1b6ba"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435499074946:3567784",
+            "name": "Files/File_1691435499066188_3567782.png",
+            "flags": 1
+        }
+    },
+    "1691435499074946:3567784": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5d5dfcc604f0b0616f7471706cc1b6ba"
+                    },
+                    "v": "1691435500192962:3569193"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2408",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "4142",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435499086054:3567790"
+        }
+    },
+    "1691435499075553:3567789": {
+        "IFileManager": {
+            "path": "Files/File_1691435499075553_3567789.png"
+        }
+    },
+    "1691435499086054:3567790": {
+        "IFileManager": {
+            "path": "Files/File_1691435499086054_3567790.png"
+        }
+    },
+    "1691435499103955:3567799": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/uruguay_flag.png",
+                "hash": "5d5dfcc604f0b0616f7471706cc1b6ba"
+            }
+        }
+    },
+    "1691435500192962:3569193": {
+        "IFileManager": {
+            "path": "Files/File_1691435500192962_3569193.pvr"
+        }
+    }
+}

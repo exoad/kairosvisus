@@ -1,0 +1,79 @@
+{
+    "1691435499319739:3568226": {
+        "IFileManager": {
+            "path": "Files/File_1691435499319739_3568226.pvr"
+        }
+    },
+    "1691435499328444:3568235": {
+        "IResourceController": {
+            "name": "southkorea_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435499329476:3568236",
+            "fileId": "1691435499319739:3568226",
+            "originalId": "1691435499330044:3568241",
+            "publicId": "1691435499368791:3568243",
+            "expected_hash": "66997823625bb011a3bb6429055c17a9",
+            "additional": {
+                "originHash": "035e9022898421186ef8663bf5ae600b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435499329476:3568236",
+            "name": "Files/File_1691435499319739_3568226.png",
+            "flags": 1
+        }
+    },
+    "1691435499329476:3568236": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "035e9022898421186ef8663bf5ae600b"
+                    },
+                    "v": "1691435500524487:3569284"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2547",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "4996",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435499338769:3568242"
+        }
+    },
+    "1691435499330044:3568241": {
+        "IFileManager": {
+            "path": "Files/File_1691435499330044_3568241.png"
+        }
+    },
+    "1691435499338769:3568242": {
+        "IFileManager": {
+            "path": "Files/File_1691435499338769_3568242.png"
+        }
+    },
+    "1691435499368791:3568243": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/southkorea_flag.png",
+                "hash": "035e9022898421186ef8663bf5ae600b"
+            }
+        }
+    },
+    "1691435500524487:3569284": {
+        "IFileManager": {
+            "path": "Files/File_1691435500524487_3569284.pvr"
+        }
+    }
+}

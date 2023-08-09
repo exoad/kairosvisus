@@ -1,0 +1,33 @@
+{
+    "1691510446945360:2708515": {
+        "IFileManager": {
+            "path": "Files/File_1691510446945360_2708515.js"
+        }
+    },
+    "1691510446948639:2708516": {
+        "IResourceController": {
+            "name": "select_city_scrollview_handler",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691510446948673:2708517",
+            "fileId": "1691510446945360:2708515",
+            "publicId": "1691518653797817:45900",
+            "expected_hash": "dfccb72a1c2c26e9c6fa43eba025748a"
+        },
+        "IResourceManager": {
+            "uid": "1691510446948673:2708517",
+            "name": "Files/File_1691510446945360_2708515.js",
+            "flags": 1
+        }
+    },
+    "1691518653797817:45900": {
+        "IResourceController": {
+            "public": {
+                "path": "src/select_city_scrollview_handler.js",
+                "hash": "dfccb72a1c2c26e9c6fa43eba025748a"
+            }
+        }
+    }
+}

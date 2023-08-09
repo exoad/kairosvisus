@@ -1,0 +1,79 @@
+{
+    "1691435499153548:3567974": {
+        "IFileManager": {
+            "path": "Files/File_1691435499153548_3567974.pvr"
+        }
+    },
+    "1691435499161691:3567977": {
+        "IResourceController": {
+            "name": "ukraine_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435499162905:3567978",
+            "fileId": "1691435499153548:3567974",
+            "originalId": "1691435499163557:3567983",
+            "publicId": "1691435499193192:3567991",
+            "expected_hash": "3f81c07c7b4af18cfbef042a1f1b784d",
+            "additional": {
+                "originHash": "15580f372fc91e3a4c8db1804e230087"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435499162905:3567978",
+            "name": "Files/File_1691435499153548_3567974.png",
+            "flags": 1
+        }
+    },
+    "1691435499162905:3567978": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "15580f372fc91e3a4c8db1804e230087"
+                    },
+                    "v": "1691435500337530:3569230"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1767",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2448",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435499175620:3567990"
+        }
+    },
+    "1691435499163557:3567983": {
+        "IFileManager": {
+            "path": "Files/File_1691435499163557_3567983.png"
+        }
+    },
+    "1691435499175620:3567990": {
+        "IFileManager": {
+            "path": "Files/File_1691435499175620_3567990.png"
+        }
+    },
+    "1691435499193192:3567991": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/ukraine_flag.png",
+                "hash": "15580f372fc91e3a4c8db1804e230087"
+            }
+        }
+    },
+    "1691435500337530:3569230": {
+        "IFileManager": {
+            "path": "Files/File_1691435500337530_3569230.pvr"
+        }
+    }
+}

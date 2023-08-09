@@ -1,0 +1,79 @@
+{
+    "1691435498741952:3567605": {
+        "IFileManager": {
+            "path": "Files/File_1691435498741952_3567605.pvr"
+        }
+    },
+    "1691435498750000:3567606": {
+        "IResourceController": {
+            "name": "india_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498751903:3567607",
+            "fileId": "1691435498741952:3567605",
+            "originalId": "1691435498752923:3567612",
+            "publicId": "1691435498783336:3567630",
+            "expected_hash": "777a4c96b6083111c0a7260ab882e88a",
+            "additional": {
+                "originHash": "23ce2865e2d27de023f50307554e4413"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498751903:3567607",
+            "name": "Files/File_1691435498741952_3567605.png",
+            "flags": 1
+        }
+    },
+    "1691435498751903:3567607": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "23ce2865e2d27de023f50307554e4413"
+                    },
+                    "v": "1691435499762086:3568729"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2308",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3556",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498762807:3567621"
+        }
+    },
+    "1691435498752923:3567612": {
+        "IFileManager": {
+            "path": "Files/File_1691435498752923_3567612.png"
+        }
+    },
+    "1691435498762807:3567621": {
+        "IFileManager": {
+            "path": "Files/File_1691435498762807_3567621.png"
+        }
+    },
+    "1691435498783336:3567630": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/india_flag.png",
+                "hash": "23ce2865e2d27de023f50307554e4413"
+            }
+        }
+    },
+    "1691435499762086:3568729": {
+        "IFileManager": {
+            "path": "Files/File_1691435499762086_3568729.pvr"
+        }
+    }
+}

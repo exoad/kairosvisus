@@ -1,0 +1,79 @@
+{
+    "1691435498336793:3567068": {
+        "IFileManager": {
+            "path": "Files/File_1691435498336793_3567068.pvr"
+        }
+    },
+    "1691435498343490:3567069": {
+        "IResourceController": {
+            "name": "vietnam_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498344435:3567070",
+            "fileId": "1691435498336793:3567068",
+            "originalId": "1691435498344929:3567075",
+            "publicId": "1691435498371197:3567085",
+            "expected_hash": "8bcdb9be3801476efe1d856a2cfa4fdc",
+            "additional": {
+                "originHash": "adb43568aa12f23aecbe5a5bc87c5b2d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498344435:3567070",
+            "name": "Files/File_1691435498336793_3567068.png",
+            "flags": 1
+        }
+    },
+    "1691435498344435:3567070": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "adb43568aa12f23aecbe5a5bc87c5b2d"
+                    },
+                    "v": "1691435499006129:3567752"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1609",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2628",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498355316:3567076"
+        }
+    },
+    "1691435498344929:3567075": {
+        "IFileManager": {
+            "path": "Files/File_1691435498344929_3567075.png"
+        }
+    },
+    "1691435498355316:3567076": {
+        "IFileManager": {
+            "path": "Files/File_1691435498355316_3567076.png"
+        }
+    },
+    "1691435498371197:3567085": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/vietnam_flag.png",
+                "hash": "adb43568aa12f23aecbe5a5bc87c5b2d"
+            }
+        }
+    },
+    "1691435499006129:3567752": {
+        "IFileManager": {
+            "path": "Files/File_1691435499006129_3567752.pvr"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1691600832316382:4130840": {
+        "IFileManager": {
+            "path": "Files/File_1691600832316382_4130840.js"
+        }
+    },
+    "1691600832319840:4130841": {
+        "IResourceController": {
+            "name": "AccuWeather (no user location) API",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691600832319871:4130842",
+            "fileId": "1691600832316382:4130840",
+            "publicId": "1691600832332052:4130855",
+            "expected_hash": "f6cea6b2d4e65a1adde4d985bf9c9003"
+        },
+        "IResourceManager": {
+            "uid": "1691600832319871:4130842",
+            "name": "Files/File_1691600832316382_4130840.js",
+            "flags": 1
+        }
+    },
+    "1691600832332052:4130855": {
+        "IResourceController": {
+            "public": {
+                "path": "src/api/AccuWeather (no user location) API.js",
+                "hash": "f6cea6b2d4e65a1adde4d985bf9c9003"
+            }
+        }
+    }
+}

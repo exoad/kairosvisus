@@ -1,0 +1,79 @@
+{
+    "1691435497973291:3566613": {
+        "IFileManager": {
+            "path": "Files/File_1691435497973291_3566613.pvr"
+        }
+    },
+    "1691435497989271:3566622": {
+        "IResourceController": {
+            "name": "greece_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435497991251:3566623",
+            "fileId": "1691435497973291:3566613",
+            "originalId": "1691435497991846:3566628",
+            "publicId": "1691435498025024:3566638",
+            "expected_hash": "55db0273e33e7eecb895b337c1b5e362",
+            "additional": {
+                "originHash": "8ba1fdf09d0b771e03177da4a0a51c0f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435497991251:3566623",
+            "name": "Files/File_1691435497973291_3566613.png",
+            "flags": 1
+        }
+    },
+    "1691435497991251:3566623": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8ba1fdf09d0b771e03177da4a0a51c0f"
+                    },
+                    "v": "1691435498228939:3566999"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2374",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3068",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435497998152:3566629"
+        }
+    },
+    "1691435497991846:3566628": {
+        "IFileManager": {
+            "path": "Files/File_1691435497991846_3566628.png"
+        }
+    },
+    "1691435497998152:3566629": {
+        "IFileManager": {
+            "path": "Files/File_1691435497998152_3566629.png"
+        }
+    },
+    "1691435498025024:3566638": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/greece_flag.png",
+                "hash": "8ba1fdf09d0b771e03177da4a0a51c0f"
+            }
+        }
+    },
+    "1691435498228939:3566999": {
+        "IFileManager": {
+            "path": "Files/File_1691435498228939_3566999.pvr"
+        }
+    }
+}

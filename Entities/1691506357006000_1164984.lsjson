@@ -1,0 +1,79 @@
+{
+    "1691506356989926:1164975": {
+        "IFileManager": {
+            "path": "Files/File_1691506356989926_1164975.pvr"
+        }
+    },
+    "1691506357006000:1164984": {
+        "IResourceController": {
+            "name": "cityimg",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691506357008162:1164985",
+            "fileId": "1691506356989926:1164975",
+            "originalId": "1691506357009354:1164990",
+            "publicId": "1691506357030093:1164992",
+            "expected_hash": "d6804858b3b618aa09e095a9b4f82712",
+            "additional": {
+                "originHash": "0e7643de8ae61a52bf1bec52af465c28"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691506357008162:1164985",
+            "name": "Files/File_1691506356989926_1164975.png",
+            "flags": 1
+        }
+    },
+    "1691506357008162:1164985": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0e7643de8ae61a52bf1bec52af465c28"
+                    },
+                    "v": "1691506357171074:1165843"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1277",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2171",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691506357017039:1164991"
+        }
+    },
+    "1691506357009354:1164990": {
+        "IFileManager": {
+            "path": "Files/File_1691506357009354_1164990.png"
+        }
+    },
+    "1691506357017039:1164991": {
+        "IFileManager": {
+            "path": "Files/File_1691506357017039_1164991.png"
+        }
+    },
+    "1691506357030093:1164992": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/elements/cityimg.png",
+                "hash": "0e7643de8ae61a52bf1bec52af465c28"
+            }
+        }
+    },
+    "1691506357171074:1165843": {
+        "IFileManager": {
+            "path": "Files/File_1691506357171074_1165843.pvr"
+        }
+    }
+}

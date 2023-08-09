@@ -1,0 +1,33 @@
+{
+    "1691428346896708:2495683": {
+        "IFileManager": {
+            "path": "Files/File_1691428346896708_2495683.js"
+        }
+    },
+    "1691428346900134:2495684": {
+        "IResourceController": {
+            "name": "locale_stuffs",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691428346900176:2495685",
+            "fileId": "1691428346896708:2495683",
+            "publicId": "1691428346903320:2495690",
+            "expected_hash": "bd3221131fa428d55238928db1045bb1"
+        },
+        "IResourceManager": {
+            "uid": "1691428346900176:2495685",
+            "name": "Files/File_1691428346896708_2495683.js",
+            "flags": 1
+        }
+    },
+    "1691428346903320:2495690": {
+        "IResourceController": {
+            "public": {
+                "path": "src/locale_stuffs.js",
+                "hash": "bd3221131fa428d55238928db1045bb1"
+            }
+        }
+    }
+}

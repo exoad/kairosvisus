@@ -1,0 +1,91 @@
+{
+    "1691601982943013:4675046": {
+        "IFileManager": {
+            "path": "Files/File_1691601982943013_4675046.png"
+        }
+    },
+    "1691601982957986:4675047": {
+        "IResourceController": {
+            "name": "cold",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601982970270:4675056",
+            "fileId": "1691601982943013:4675046",
+            "originalId": "1691601982970856:4675061",
+            "publicId": "1691601982992114:4675063",
+            "expected_hash": "fa38b7e4c49663065b03097ab13f83f9",
+            "additional": {
+                "originHash": "fa38b7e4c49663065b03097ab13f83f9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601982970270:4675056",
+            "name": "Files/File_1691601982943013_4675046.png",
+            "flags": 1
+        }
+    },
+    "1691601982970270:4675056": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "fa38b7e4c49663065b03097ab13f83f9"
+                    },
+                    "v": "1691602004776871:4696454"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fa38b7e4c49663065b03097ab13f83f9"
+                    },
+                    "v": "1691601983446871:4677408"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9216",
+                "compressedSize": "1038",
+                "extension": "png",
+                "originalRAM": "9216",
+                "originalSize": "1038",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601982979037:4675062"
+        }
+    },
+    "1691601982970856:4675061": {
+        "IFileManager": {
+            "path": "Files/File_1691601982970856_4675061.png"
+        }
+    },
+    "1691601982979037:4675062": {
+        "IFileManager": {
+            "path": "Files/File_1691601982979037_4675062.png"
+        }
+    },
+    "1691601982992114:4675063": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/cold.png",
+                "hash": "fa38b7e4c49663065b03097ab13f83f9"
+            }
+        }
+    },
+    "1691601983446871:4677408": {
+        "IFileManager": {
+            "path": "Files/File_1691601983446871_4677408.pvr"
+        }
+    },
+    "1691602004776871:4696454": {
+        "IFileManager": {
+            "path": "Files/File_1691602004776871_4696454.png"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1691435498154529:3566771": {
+        "IFileManager": {
+            "path": "Files/File_1691435498154529_3566771.pvr"
+        }
+    },
+    "1691435498161944:3566836": {
+        "IResourceController": {
+            "name": "mexico_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498162860:3566837",
+            "fileId": "1691435498154529:3566771",
+            "originalId": "1691435498163397:3566842",
+            "publicId": "1691435498189168:3566850",
+            "expected_hash": "16b45483c4e1ba646b9f3ca80ff14d4d",
+            "additional": {
+                "originHash": "fee3b42d18fd5dcaace9a06f88f7ee47"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498162860:3566837",
+            "name": "Files/File_1691435498154529_3566771.png",
+            "flags": 1
+        }
+    },
+    "1691435498162860:3566837": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fee3b42d18fd5dcaace9a06f88f7ee47"
+                    },
+                    "v": "1691435498619221:3567242"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2673",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "5093",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498170544:3566843"
+        }
+    },
+    "1691435498163397:3566842": {
+        "IFileManager": {
+            "path": "Files/File_1691435498163397_3566842.png"
+        }
+    },
+    "1691435498170544:3566843": {
+        "IFileManager": {
+            "path": "Files/File_1691435498170544_3566843.png"
+        }
+    },
+    "1691435498189168:3566850": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/mexico_flag.png",
+                "hash": "fee3b42d18fd5dcaace9a06f88f7ee47"
+            }
+        }
+    },
+    "1691435498619221:3567242": {
+        "IFileManager": {
+            "path": "Files/File_1691435498619221_3567242.pvr"
+        }
+    }
+}

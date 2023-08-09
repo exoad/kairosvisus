@@ -1,0 +1,91 @@
+{
+    "1691601983879819:4679769": {
+        "IFileManager": {
+            "path": "Files/File_1691601983879819_4679769.png"
+        }
+    },
+    "1691601983887215:4679770": {
+        "IResourceController": {
+            "name": "lightning",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601983901183:4679779",
+            "fileId": "1691601983879819:4679769",
+            "originalId": "1691601983901905:4679784",
+            "publicId": "1691601983923303:4679786",
+            "expected_hash": "4d52a841ff4bbf12e07929f7d5f84ea2",
+            "additional": {
+                "originHash": "4d52a841ff4bbf12e07929f7d5f84ea2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601983901183:4679779",
+            "name": "Files/File_1691601983879819_4679769.png",
+            "flags": 1
+        }
+    },
+    "1691601983901183:4679779": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "4d52a841ff4bbf12e07929f7d5f84ea2"
+                    },
+                    "v": "1691602005079013:4698951"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4d52a841ff4bbf12e07929f7d5f84ea2"
+                    },
+                    "v": "1691601984279673:4682110"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36864",
+                "compressedSize": "2793",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2793",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601983910215:4679785"
+        }
+    },
+    "1691601983901905:4679784": {
+        "IFileManager": {
+            "path": "Files/File_1691601983901905_4679784.png"
+        }
+    },
+    "1691601983910215:4679785": {
+        "IFileManager": {
+            "path": "Files/File_1691601983910215_4679785.png"
+        }
+    },
+    "1691601983923303:4679786": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/lightning.png",
+                "hash": "4d52a841ff4bbf12e07929f7d5f84ea2"
+            }
+        }
+    },
+    "1691601984279673:4682110": {
+        "IFileManager": {
+            "path": "Files/File_1691601984279673_4682110.pvr"
+        }
+    },
+    "1691602005079013:4698951": {
+        "IFileManager": {
+            "path": "Files/File_1691602005079013_4698951.png"
+        }
+    }
+}

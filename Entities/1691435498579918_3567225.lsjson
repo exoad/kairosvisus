@@ -1,0 +1,79 @@
+{
+    "1691435498572612:3567224": {
+        "IFileManager": {
+            "path": "Files/File_1691435498572612_3567224.pvr"
+        }
+    },
+    "1691435498579918:3567225": {
+        "IResourceController": {
+            "name": "japan_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498580874:3567226",
+            "fileId": "1691435498572612:3567224",
+            "originalId": "1691435498581646:3567231",
+            "publicId": "1691435498606006:3567235",
+            "expected_hash": "1f213b234df56cc1afaceb4a6dcc29eb",
+            "additional": {
+                "originHash": "b952f4b3c4f8fb3654a2bb8424a7e390"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498580874:3567226",
+            "name": "Files/File_1691435498572612_3567224.png",
+            "flags": 1
+        }
+    },
+    "1691435498580874:3567226": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b952f4b3c4f8fb3654a2bb8424a7e390"
+                    },
+                    "v": "1691435499592630:3568326"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1968",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2835",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498589998:3567232"
+        }
+    },
+    "1691435498581646:3567231": {
+        "IFileManager": {
+            "path": "Files/File_1691435498581646_3567231.png"
+        }
+    },
+    "1691435498589998:3567232": {
+        "IFileManager": {
+            "path": "Files/File_1691435498589998_3567232.png"
+        }
+    },
+    "1691435498606006:3567235": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/japan_flag.png",
+                "hash": "b952f4b3c4f8fb3654a2bb8424a7e390"
+            }
+        }
+    },
+    "1691435499592630:3568326": {
+        "IFileManager": {
+            "path": "Files/File_1691435499592630_3568326.pvr"
+        }
+    }
+}

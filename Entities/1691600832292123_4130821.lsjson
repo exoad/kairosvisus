@@ -1,0 +1,17 @@
+{
+    "1691600832292123:4130821": {
+        "IResourceController": {
+            "name": "AccuWeather (no user location)",
+            "type": 27,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691600832292104:4130820"
+        },
+        "IResourceManager": {
+            "uid": "1691600832292104:4130820",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

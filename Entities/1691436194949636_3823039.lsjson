@@ -1,0 +1,79 @@
+{
+    "1691436194943257:3823031": {
+        "IFileManager": {
+            "path": "Files/File_1691436194943257_3823031.pvr"
+        }
+    },
+    "1691436194949636:3823039": {
+        "IResourceController": {
+            "name": "australia_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691436194950548:3823040",
+            "fileId": "1691436194943257:3823031",
+            "originalId": "1691436194951039:3823045",
+            "publicId": "1691436194982557:3823047",
+            "expected_hash": "3157698eced1e8b502a94922a6030b66",
+            "additional": {
+                "originHash": "d5db6b7d7a29f30d5718a2b88f6f803d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691436194950548:3823040",
+            "name": "Files/File_1691436194943257_3823031.png",
+            "flags": 1
+        }
+    },
+    "1691436194950548:3823040": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d5db6b7d7a29f30d5718a2b88f6f803d"
+                    },
+                    "v": "1691436195188083:3823129"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2203",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "4098",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691436194959056:3823046"
+        }
+    },
+    "1691436194951039:3823045": {
+        "IFileManager": {
+            "path": "Files/File_1691436194951039_3823045.png"
+        }
+    },
+    "1691436194959056:3823046": {
+        "IFileManager": {
+            "path": "Files/File_1691436194959056_3823046.png"
+        }
+    },
+    "1691436194982557:3823047": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/australia_flag.png",
+                "hash": "d5db6b7d7a29f30d5718a2b88f6f803d"
+            }
+        }
+    },
+    "1691436195188083:3823129": {
+        "IFileManager": {
+            "path": "Files/File_1691436195188083_3823129.pvr"
+        }
+    }
+}

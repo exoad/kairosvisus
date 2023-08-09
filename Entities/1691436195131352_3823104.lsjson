@@ -1,0 +1,79 @@
+{
+    "1691436195124557:3823103": {
+        "IFileManager": {
+            "path": "Files/File_1691436195124557_3823103.pvr"
+        }
+    },
+    "1691436195131352:3823104": {
+        "IResourceController": {
+            "name": "unitedarabemirates_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691436195132321:3823105",
+            "fileId": "1691436195124557:3823103",
+            "originalId": "1691436195132835:3823110",
+            "publicId": "1691436195167844:3823120",
+            "expected_hash": "d68a969f9e6b297be8564c69d36cec6c",
+            "additional": {
+                "originHash": "4287b1f06d2eda522b0a8b36bbf7ca2f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691436195132321:3823105",
+            "name": "Files/File_1691436195124557_3823103.png",
+            "flags": 1
+        }
+    },
+    "1691436195132321:3823105": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4287b1f06d2eda522b0a8b36bbf7ca2f"
+                    },
+                    "v": "1691436195544801:3824569"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2043",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2582",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691436195146922:3823111"
+        }
+    },
+    "1691436195132835:3823110": {
+        "IFileManager": {
+            "path": "Files/File_1691436195132835_3823110.png"
+        }
+    },
+    "1691436195146922:3823111": {
+        "IFileManager": {
+            "path": "Files/File_1691436195146922_3823111.png"
+        }
+    },
+    "1691436195167844:3823120": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/unitedarabemirates_flag.png",
+                "hash": "4287b1f06d2eda522b0a8b36bbf7ca2f"
+            }
+        }
+    },
+    "1691436195544801:3824569": {
+        "IFileManager": {
+            "path": "Files/File_1691436195544801_3824569.pvr"
+        }
+    }
+}

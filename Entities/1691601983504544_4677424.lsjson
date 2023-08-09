@@ -1,0 +1,91 @@
+{
+    "1691601983498230:4677423": {
+        "IFileManager": {
+            "path": "Files/File_1691601983498230_4677423.png"
+        }
+    },
+    "1691601983504544:4677424": {
+        "IResourceController": {
+            "name": "clear_night",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601983517936:4677427",
+            "fileId": "1691601983498230:4677423",
+            "originalId": "1691601983518640:4677432",
+            "publicId": "1691601983545796:4677645",
+            "expected_hash": "3b725f5c7981eb08d0f1dd33c467395e",
+            "additional": {
+                "originHash": "3b725f5c7981eb08d0f1dd33c467395e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601983517936:4677427",
+            "name": "Files/File_1691601983498230_4677423.png",
+            "flags": 1
+        }
+    },
+    "1691601983517936:4677427": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "3b725f5c7981eb08d0f1dd33c467395e"
+                    },
+                    "v": "1691602005020332:4698840"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3b725f5c7981eb08d0f1dd33c467395e"
+                    },
+                    "v": "1691601983937750:4679795"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36864",
+                "compressedSize": "1885",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "1885",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601983528698:4677452"
+        }
+    },
+    "1691601983518640:4677432": {
+        "IFileManager": {
+            "path": "Files/File_1691601983518640_4677432.png"
+        }
+    },
+    "1691601983528698:4677452": {
+        "IFileManager": {
+            "path": "Files/File_1691601983528698_4677452.png"
+        }
+    },
+    "1691601983545796:4677645": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/clear_night.png",
+                "hash": "3b725f5c7981eb08d0f1dd33c467395e"
+            }
+        }
+    },
+    "1691601983937750:4679795": {
+        "IFileManager": {
+            "path": "Files/File_1691601983937750_4679795.pvr"
+        }
+    },
+    "1691602005020332:4698840": {
+        "IFileManager": {
+            "path": "Files/File_1691602005020332_4698840.png"
+        }
+    }
+}

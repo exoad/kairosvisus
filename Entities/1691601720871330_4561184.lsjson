@@ -1,0 +1,17 @@
+{
+    "1691601720871330:4561184": {
+        "IResourceController": {
+            "name": "Sky Segmentation",
+            "type": 1,
+            "subtype": 14,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601720849883:4561176"
+        },
+        "IResourceManager": {
+            "uid": "1691601720849883:4561176",
+            "name": "Sky Segmentation",
+            "flags": 0
+        }
+    }
+}

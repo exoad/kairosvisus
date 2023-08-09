@@ -1,0 +1,79 @@
+{
+    "1691435084021352:3485843": {
+        "IFileManager": {
+            "path": "Files/File_1691435084021352_3485843.pvr"
+        }
+    },
+    "1691435084029925:3485844": {
+        "IResourceController": {
+            "name": "usa_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435084031172:3485845",
+            "fileId": "1691435084021352:3485843",
+            "originalId": "1691435084031812:3485850",
+            "publicId": "1691435084051819:3485857",
+            "expected_hash": "a519d0c08fac8d2df7dd3cfe86e96f0c",
+            "additional": {
+                "originHash": "9298f1f6be7f707601987e3e711dcd97"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435084031172:3485845",
+            "name": "Files/File_1691435084021352_3485843.png",
+            "flags": 1
+        }
+    },
+    "1691435084031172:3485845": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9298f1f6be7f707601987e3e711dcd97"
+                    },
+                    "v": "1691435084263778:3486142"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2010",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3051",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435084039971:3485851"
+        }
+    },
+    "1691435084031812:3485850": {
+        "IFileManager": {
+            "path": "Files/File_1691435084031812_3485850.png"
+        }
+    },
+    "1691435084039971:3485851": {
+        "IFileManager": {
+            "path": "Files/File_1691435084039971_3485851.png"
+        }
+    },
+    "1691435084051819:3485857": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/usa_flag.png",
+                "hash": "9298f1f6be7f707601987e3e711dcd97"
+            }
+        }
+    },
+    "1691435084263778:3486142": {
+        "IFileManager": {
+            "path": "Files/File_1691435084263778_3486142.pvr"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1691436149660580:3800737": {
+        "IFileManager": {
+            "path": "Files/File_1691436149660580_3800737.pvr"
+        }
+    },
+    "1691436149668748:3800738": {
+        "IResourceController": {
+            "name": "sweden_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691436149671428:3800739",
+            "fileId": "1691436149660580:3800737",
+            "originalId": "1691436149672241:3800745",
+            "publicId": "1691436149693113:3800754",
+            "expected_hash": "9aa87b12980cc4f0713b681d0bb3f69f",
+            "additional": {
+                "originHash": "f879f803568cb013dbc0e1a0757db5eb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691436149671428:3800739",
+            "name": "Files/File_1691436149660580_3800737.png",
+            "flags": 1
+        }
+    },
+    "1691436149671428:3800739": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f879f803568cb013dbc0e1a0757db5eb"
+                    },
+                    "v": "1691436149881732:3802096"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1859",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2555",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691436149679889:3800753"
+        }
+    },
+    "1691436149672241:3800745": {
+        "IFileManager": {
+            "path": "Files/File_1691436149672241_3800745.png"
+        }
+    },
+    "1691436149679889:3800753": {
+        "IFileManager": {
+            "path": "Files/File_1691436149679889_3800753.png"
+        }
+    },
+    "1691436149693113:3800754": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/sweden_flag.png",
+                "hash": "f879f803568cb013dbc0e1a0757db5eb"
+            }
+        }
+    },
+    "1691436149881732:3802096": {
+        "IFileManager": {
+            "path": "Files/File_1691436149881732_3802096.pvr"
+        }
+    }
+}

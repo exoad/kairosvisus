@@ -1,0 +1,91 @@
+{
+    "1691601981863091:4670326": {
+        "IFileManager": {
+            "path": "Files/File_1691601981863091_4670326.png"
+        }
+    },
+    "1691601981880117:4670338": {
+        "IResourceController": {
+            "name": "storm",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601981894062:4670339",
+            "fileId": "1691601981863091:4670326",
+            "originalId": "1691601981894899:4670344",
+            "publicId": "1691601981929429:4670359",
+            "expected_hash": "92ab1f34c9c482f6df397de822e281c5",
+            "additional": {
+                "originHash": "92ab1f34c9c482f6df397de822e281c5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601981894062:4670339",
+            "name": "Files/File_1691601981863091_4670326.png",
+            "flags": 1
+        }
+    },
+    "1691601981894062:4670339": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "92ab1f34c9c482f6df397de822e281c5"
+                    },
+                    "v": "1691602004330050:4693900"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "92ab1f34c9c482f6df397de822e281c5"
+                    },
+                    "v": "1691601982152662:4671536"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36864",
+                "compressedSize": "2733",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2733",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601981902910:4670356"
+        }
+    },
+    "1691601981894899:4670344": {
+        "IFileManager": {
+            "path": "Files/File_1691601981894899_4670344.png"
+        }
+    },
+    "1691601981902910:4670356": {
+        "IFileManager": {
+            "path": "Files/File_1691601981902910_4670356.png"
+        }
+    },
+    "1691601981929429:4670359": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/storm.png",
+                "hash": "92ab1f34c9c482f6df397de822e281c5"
+            }
+        }
+    },
+    "1691601982152662:4671536": {
+        "IFileManager": {
+            "path": "Files/File_1691601982152662_4671536.pvr"
+        }
+    },
+    "1691602004330050:4693900": {
+        "IFileManager": {
+            "path": "Files/File_1691602004330050_4693900.png"
+        }
+    }
+}

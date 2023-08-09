@@ -1,0 +1,39 @@
+{
+    "1691521233954454:978979": {
+        "IFileManager": {
+            "path": "Files/File_1691521233954454_978979"
+        }
+    },
+    "1691521233957095:978980": {
+        "IResourceController": {
+            "name": "Gauss Blur",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691521233957396:978981",
+            "fileId": "1691521233954454:978979",
+            "originalId": "1691521233997972:979007",
+            "publicId": "1691521234330511:979169",
+            "expected_hash": "68b3f70ea75f5965400631bc307470d5"
+        },
+        "IResourceManager": {
+            "uid": "1691521233957396:978981",
+            "name": "Files/File_1691521233954454_978979",
+            "flags": 1
+        }
+    },
+    "1691521233997972:979007": {
+        "IFileManager": {
+            "path": "Files/File_1691521233997972_979007.lsmat"
+        }
+    },
+    "1691521234330511:979169": {
+        "IResourceController": {
+            "public": {
+                "path": "Gauss Blur.lsmat",
+                "hash": "2c07150a1b0427a79c8bc583637e3bba"
+            }
+        }
+    }
+}

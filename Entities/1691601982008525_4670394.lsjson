@@ -1,0 +1,91 @@
+{
+    "1691601982001057:4670393": {
+        "IFileManager": {
+            "path": "Files/File_1691601982001057_4670393.png"
+        }
+    },
+    "1691601982008525:4670394": {
+        "IResourceController": {
+            "name": "snow",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691601982018679:4670395",
+            "fileId": "1691601982001057:4670393",
+            "originalId": "1691601982019408:4670400",
+            "publicId": "1691601982040533:4670413",
+            "expected_hash": "7f5fa4abc75ece93a04c02dc9931361f",
+            "additional": {
+                "originHash": "7f5fa4abc75ece93a04c02dc9931361f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691601982018679:4670395",
+            "name": "Files/File_1691601982001057_4670393.png",
+            "flags": 1
+        }
+    },
+    "1691601982018679:4670395": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "7f5fa4abc75ece93a04c02dc9931361f"
+                    },
+                    "v": "1691602004370640:4693916"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7f5fa4abc75ece93a04c02dc9931361f"
+                    },
+                    "v": "1691601982333395:4672659"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "36864",
+                "compressedSize": "2569",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2569",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691601982026793:4670412"
+        }
+    },
+    "1691601982019408:4670400": {
+        "IFileManager": {
+            "path": "Files/File_1691601982019408_4670400.png"
+        }
+    },
+    "1691601982026793:4670412": {
+        "IFileManager": {
+            "path": "Files/File_1691601982026793_4670412.png"
+        }
+    },
+    "1691601982040533:4670413": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/weathers/snow.png",
+                "hash": "7f5fa4abc75ece93a04c02dc9931361f"
+            }
+        }
+    },
+    "1691601982333395:4672659": {
+        "IFileManager": {
+            "path": "Files/File_1691601982333395_4672659.pvr"
+        }
+    },
+    "1691602004370640:4693916": {
+        "IFileManager": {
+            "path": "Files/File_1691602004370640_4693916.png"
+        }
+    }
+}

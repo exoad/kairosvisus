@@ -1,0 +1,33 @@
+{
+    "1691521968955603:1305746": {
+        "IFileManager": {
+            "path": "Files/File_1691521968955603_1305746.js"
+        }
+    },
+    "1691521968959094:1305747": {
+        "IResourceController": {
+            "name": "cities_list",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691521968959144:1305748",
+            "fileId": "1691521968955603:1305746",
+            "publicId": "1691521968960891:1305753",
+            "expected_hash": "a071292b685f4129dc1229881310ad23"
+        },
+        "IResourceManager": {
+            "uid": "1691521968959144:1305748",
+            "name": "Files/File_1691521968955603_1305746.js",
+            "flags": 1
+        }
+    },
+    "1691521968960891:1305753": {
+        "IResourceController": {
+            "public": {
+                "path": "src/cities_list.js",
+                "hash": "a071292b685f4129dc1229881310ad23"
+            }
+        }
+    }
+}

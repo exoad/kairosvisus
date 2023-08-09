@@ -1,0 +1,72 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "AccuWeather (no user location)"
+                ],
+                [
+                    "AccuWeather (no user location) API"
+                ],
+                [
+                    "AccuWeather (no user location) API Module"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1691589399102896:371967": "C:/Users/Jack Meng/AppData/Local/Snap/Lens Studio/cache/temp/CYVFbLyzKTyJ.js",
+            "1691589399131410:371979": "C:/Users/Jack Meng/AppData/Local/Snap/Lens Studio/cache/temp/noNAAeObmDwJ.js"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "resources": [
+                [
+                    "1588296316857901:534385",
+                    [
+                        "Echopark",
+                        "Specular"
+                    ]
+                ]
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

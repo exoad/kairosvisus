@@ -1,0 +1,79 @@
+{
+    "1691435083804993:3485806": {
+        "IFileManager": {
+            "path": "Files/File_1691435083804993_3485806.pvr"
+        }
+    },
+    "1691435083824239:3485812": {
+        "IResourceController": {
+            "name": "germany_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435083827823:3485813",
+            "fileId": "1691435083804993:3485806",
+            "originalId": "1691435083828635:3485818",
+            "publicId": "1691435083851628:3485825",
+            "expected_hash": "86d5bf178ddefb9f0771a687f48c3bba",
+            "additional": {
+                "originHash": "6ff6a4539fc84fd159ff80ea6a306c04"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435083827823:3485813",
+            "name": "Files/File_1691435083804993_3485806.png",
+            "flags": 1
+        }
+    },
+    "1691435083827823:3485813": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6ff6a4539fc84fd159ff80ea6a306c04"
+                    },
+                    "v": "1691435084066101:3485858"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "1649",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2173",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435083835228:3485819"
+        }
+    },
+    "1691435083828635:3485818": {
+        "IFileManager": {
+            "path": "Files/File_1691435083828635_3485818.png"
+        }
+    },
+    "1691435083835228:3485819": {
+        "IFileManager": {
+            "path": "Files/File_1691435083835228_3485819.png"
+        }
+    },
+    "1691435083851628:3485825": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/germany_flag.png",
+                "hash": "6ff6a4539fc84fd159ff80ea6a306c04"
+            }
+        }
+    },
+    "1691435084066101:3485858": {
+        "IFileManager": {
+            "path": "Files/File_1691435084066101_3485858.pvr"
+        }
+    }
+}

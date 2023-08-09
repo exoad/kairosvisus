@@ -1,0 +1,79 @@
+{
+    "1691435498272625:3567031": {
+        "IFileManager": {
+            "path": "Files/File_1691435498272625_3567031.pvr"
+        }
+    },
+    "1691435498278819:3567032": {
+        "IResourceController": {
+            "name": "poland_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691435498280036:3567034",
+            "fileId": "1691435498272625:3567031",
+            "originalId": "1691435498280506:3567040",
+            "publicId": "1691435498304317:3567056",
+            "expected_hash": "9d26ed604deeefdc58d30aa534d55809",
+            "additional": {
+                "originHash": "293ff09669470f0cd6a39fe29930f716"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691435498280036:3567034",
+            "name": "Files/File_1691435498272625_3567031.png",
+            "flags": 1
+        }
+    },
+    "1691435498280036:3567034": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "293ff09669470f0cd6a39fe29930f716"
+                    },
+                    "v": "1691435498795196:3567631"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2065",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "2882",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691435498289027:3567055"
+        }
+    },
+    "1691435498280506:3567040": {
+        "IFileManager": {
+            "path": "Files/File_1691435498280506_3567040.png"
+        }
+    },
+    "1691435498289027:3567055": {
+        "IFileManager": {
+            "path": "Files/File_1691435498289027_3567055.png"
+        }
+    },
+    "1691435498304317:3567056": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/poland_flag.png",
+                "hash": "293ff09669470f0cd6a39fe29930f716"
+            }
+        }
+    },
+    "1691435498795196:3567631": {
+        "IFileManager": {
+            "path": "Files/File_1691435498795196_3567631.pvr"
+        }
+    }
+}

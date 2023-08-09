@@ -1,0 +1,79 @@
+{
+    "1691436195039687:3823067": {
+        "IFileManager": {
+            "path": "Files/File_1691436195039687_3823067.pvr"
+        }
+    },
+    "1691436195047469:3823068": {
+        "IResourceController": {
+            "name": "peru_flag",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691436195048357:3823069",
+            "fileId": "1691436195039687:3823067",
+            "originalId": "1691436195048854:3823074",
+            "publicId": "1691436195079997:3823084",
+            "expected_hash": "eff659fddedcb44b7755608910d7cc5c",
+            "additional": {
+                "originHash": "8bf072307194386332f381d50be86092"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691436195048357:3823069",
+            "name": "Files/File_1691436195039687_3823067.png",
+            "flags": 1
+        }
+    },
+    "1691436195048357:3823069": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8bf072307194386332f381d50be86092"
+                    },
+                    "v": "1691436195391649:3824527"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4608",
+                "compressedSize": "2220",
+                "extension": "png",
+                "originalRAM": "36864",
+                "originalSize": "3377",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691436195065725:3823077"
+        }
+    },
+    "1691436195048854:3823074": {
+        "IFileManager": {
+            "path": "Files/File_1691436195048854_3823074.png"
+        }
+    },
+    "1691436195065725:3823077": {
+        "IFileManager": {
+            "path": "Files/File_1691436195065725_3823077.png"
+        }
+    },
+    "1691436195079997:3823084": {
+        "IResourceController": {
+            "public": {
+                "path": "assets/flags/peru_flag.png",
+                "hash": "8bf072307194386332f381d50be86092"
+            }
+        }
+    },
+    "1691436195391649:3824527": {
+        "IFileManager": {
+            "path": "Files/File_1691436195391649_3824527.pvr"
+        }
+    }
+}

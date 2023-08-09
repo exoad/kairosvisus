@@ -1,0 +1,24 @@
+{
+    "1691506595801421:1242454": {
+        "IFileManager": {
+            "path": "Files/File_1691506595801421_1242454.js"
+        }
+    },
+    "1691506595804549:1242455": {
+        "IResourceController": {
+            "name": "cityscroller",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1691506595804632:1242456",
+            "fileId": "1691506595801421:1242454",
+            "expected_hash": "d6b333b096d0306af0595fe4b26a8ec4"
+        },
+        "IResourceManager": {
+            "uid": "1691506595804632:1242456",
+            "name": "Files/File_1691506595801421_1242454.js",
+            "flags": 1
+        }
+    }
+}
