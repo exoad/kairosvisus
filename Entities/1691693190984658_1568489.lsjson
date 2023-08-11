@@ -1,0 +1,30 @@
+{
+    "1691693190984658:1568489": {
+        "IResourceController": {
+            "name": "Moon_2K",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1691693190984531:1568473",
+            "fileId": "1691693191039037:1568526",
+            "originalId": "1691693425305081:1703145",
+            "expected_hash": "92b41f7ecdb1f0127c4daf36736101f8"
+        },
+        "IResourceManager": {
+            "uid": "1691693190984531:1568473",
+            "name": "Moon_2K",
+            "flags": 0
+        }
+    },
+    "1691693191039037:1568526": {
+        "IFileManager": {
+            "path": "Files/File_1691693191039037_1568526.oprfb"
+        }
+    },
+    "1691693425305081:1703145": {
+        "IFileManager": {
+            "path": "Files/File_1691693425305081_1703145.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1691682188109637:358199": {
+        "IFileManager": {
+            "path": "Files/File_1691682188109637_358199"
+        }
+    },
+    "1691682188112390:358200": {
+        "IResourceController": {
+            "name": "graph_matte_shadow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691682188112399:358201",
+            "fileId": "1691682188109637:358199",
+            "originalId": "1691682188161656:358207",
+            "publicId": "1691682188362446:358216",
+            "expected_hash": "f3e5d019d5d94c2e9087d28d4aa39554"
+        },
+        "IResourceManager": {
+            "uid": "1691682188112399:358201",
+            "name": "Files/File_1691682188109637_358199",
+            "flags": 1
+        }
+    },
+    "1691682188161656:358207": {
+        "IFileManager": {
+            "path": "Files/File_1691682188161656_358207.lsmat"
+        }
+    },
+    "1691682188362446:358216": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Materials/graph_matte_shadow.lsmat",
+                "hash": "822e261f5685f20fa22fae5e10b6c390"
+            }
+        }
+    }
+}

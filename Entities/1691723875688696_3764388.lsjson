@@ -1,0 +1,21 @@
+{
+    "1691723875687848:3764387": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/Extra",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1691723875688696:3764388": {
+        "IResourceController": {
+            "name": "Extra",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691723875687848:3764387",
+            "resources": []
+        }
+    }
+}

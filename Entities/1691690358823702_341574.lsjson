@@ -1,0 +1,39 @@
+{
+    "1691690358819440:341573": {
+        "IFileManager": {
+            "path": "Files/File_1691690358819440_341573"
+        }
+    },
+    "1691690358823702:341574": {
+        "IResourceController": {
+            "name": "3DFog",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691690358823720:341575",
+            "fileId": "1691690358819440:341573",
+            "originalId": "1691690358876570:341581",
+            "publicId": "1691690359051634:341592",
+            "expected_hash": "e582778c1d6a89811551ca6181767f4d"
+        },
+        "IResourceManager": {
+            "uid": "1691690358823720:341575",
+            "name": "Files/File_1691690358819440_341573",
+            "flags": 1
+        }
+    },
+    "1691690358876570:341581": {
+        "IFileManager": {
+            "path": "Files/File_1691690358876570_341581.lsmat"
+        }
+    },
+    "1691690359051634:341592": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Fog Resources/Materials/3DFog.lsmat",
+                "hash": "21a6fe5697fffd0706300ed8603a961d"
+            }
+        }
+    }
+}

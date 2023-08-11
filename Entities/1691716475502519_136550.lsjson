@@ -1,0 +1,42 @@
+{
+    "1691716475500455:136549": {
+        "IFileManager": {
+            "path": "Files/File_1691716475500455_136549"
+        }
+    },
+    "1691716475502519:136550": {
+        "IResourceController": {
+            "name": "VFX_Rain",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1691716475502532:136551",
+            "fileId": "1691716475500455:136549",
+            "originalId": "1691716475547856:136563",
+            "publicId": "1691716475554254:136568",
+            "expected_hash": "c194e162da5c4992ed23d79463e3629b",
+            "resources": [
+                "1691716475776897:136763"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1691716475502532:136551",
+            "name": "Files/File_1691716475500455_136549",
+            "flags": 1
+        }
+    },
+    "1691716475547856:136563": {
+        "IFileManager": {
+            "path": "Files/File_1691716475547856_136563.lsvfx"
+        }
+    },
+    "1691716475554254:136568": {
+        "IResourceController": {
+            "public": {
+                "path": "Rain VFX Resources/VFX/VFX_Rain.lsvfx",
+                "hash": "5d8f94efc85cd63bfb5c0c072cd43db8"
+            }
+        }
+    }
+}

@@ -1,7 +1,7 @@
 {
     "1691601720871330:4561184": {
         "IResourceController": {
-            "name": "Sky Segmentation",
+            "name": "clear_night",
             "type": 1,
             "subtype": 14,
             "dependency": 0,

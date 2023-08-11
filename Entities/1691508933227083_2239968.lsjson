@@ -14,7 +14,7 @@
             "uid": "1691508933227136:2239969",
             "fileId": "1691508933222521:2239967",
             "publicId": "1691508933236407:2239982",
-            "expected_hash": "b38a05a9700cf5547c0ac9986a1621c4"
+            "expected_hash": "279c7786f9367d53f0d9ff308a2bdc8d"
         },
         "IResourceManager": {
             "uid": "1691508933227136:2239969",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "src/select_city_handler.js",
-                "hash": "b38a05a9700cf5547c0ac9986a1621c4"
+                "hash": "279c7786f9367d53f0d9ff308a2bdc8d"
             }
         }
     }

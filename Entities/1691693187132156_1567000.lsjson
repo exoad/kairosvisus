@@ -1,0 +1,50 @@
+{
+    "1691693187132156:1567000": {
+        "IResourceController": {
+            "name": "Moon_2K",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1691693191049461:1568527",
+            "publicId": "1691693191093687:1568547",
+            "expected_hash": "109eb302dbcfe4602abaf7c5066daaf6",
+            "resources": [
+                "1691693190076411:1568109",
+                "1691693190123360:1568142",
+                "1691693190984658:1568489"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Moon",
+                        "v": "1691693190127401:1568145"
+                    }
+                ]
+            }
+        }
+    },
+    "1691693191049461:1568527": {
+        "IFileManager": {
+            "path": "Files/File_1691693191049461_1568527.fbx"
+        }
+    },
+    "1691693191093687:1568547": {
+        "IResourceController": {
+            "public": {
+                "path": "Moon_2K.fbx",
+                "hash": "109eb302dbcfe4602abaf7c5066daaf6"
+            }
+        }
+    }
+}

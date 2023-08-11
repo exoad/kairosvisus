@@ -1,0 +1,39 @@
+{
+    "1691718955544527:1334867": {
+        "IResourceController": {
+            "name": "3DFogExamples__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691718955544313:1334864",
+            "fileId": "1691718955594222:1334892",
+            "originalId": "1691719061376143:1396311",
+            "publicId": "1691718956081744:1335200",
+            "expected_hash": "fdab0dd11087d8c7460732e36a92e0d5"
+        },
+        "IResourceManager": {
+            "uid": "1691718955544313:1334864",
+            "name": "sceneObject_29",
+            "flags": 0
+        }
+    },
+    "1691718955594222:1334892": {
+        "IFileManager": {
+            "path": "Files/File_1691718955594222_1334892.oprfb"
+        }
+    },
+    "1691718956081744:1335200": {
+        "IResourceController": {
+            "public": {
+                "path": "3DFogExamples__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "e8517424b6a6ab032b80912bd3047a8d"
+            }
+        }
+    },
+    "1691719061376143:1396311": {
+        "IFileManager": {
+            "path": "Files/File_1691719061376143_1396311.oprfb"
+        }
+    }
+}

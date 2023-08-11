@@ -13,7 +13,8 @@ interactionComponent.onTouchStart.add((eventArgs) =>
   if (!script.ui_SelectCityScrollView.enabled || script
     .ui_SelectCityScrollViewText.text == "Nothing here...")
   {
-    script.ui_SelectCityScrollView.enabled = true;
+    global.util.log("Loading scrollview...");
     script.ui_EnterCityInput.enabled = true;
+    script.ui_SelectCityScrollView.enabled = true;
   }
 });

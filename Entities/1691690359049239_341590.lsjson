@@ -1,0 +1,24 @@
+{
+    "1691690359049239:341590": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691690359049469:341591",
+            "resources": [
+                "1691690358823702:341574",
+                "1691691985214191:1026638",
+                "1691718955731922:1334985"
+            ]
+        }
+    },
+    "1691690359049469:341591": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Fog Resources/Materials"
+            }
+        }
+    }
+}

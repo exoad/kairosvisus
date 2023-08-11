@@ -1,0 +1,22 @@
+{
+    "1691716475552335:136566": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691716475552510:136567",
+            "resources": [
+                "1691716475502519:136550"
+            ]
+        }
+    },
+    "1691716475552510:136567": {
+        "IResourceController": {
+            "public": {
+                "path": "Rain VFX Resources/VFX"
+            }
+        }
+    }
+}

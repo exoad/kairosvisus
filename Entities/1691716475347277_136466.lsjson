@@ -1,0 +1,39 @@
+{
+    "1691716475347277:136466": {
+        "IResourceController": {
+            "name": "RainVFX__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691716475347186:136463",
+            "fileId": "1691716475389010:136476",
+            "originalId": "1691716510579325:183856",
+            "publicId": "1691716476177770:136943",
+            "expected_hash": "390406ab52bc016def9891220b5f0f5e"
+        },
+        "IResourceManager": {
+            "uid": "1691716475347186:136463",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1691716475389010:136476": {
+        "IFileManager": {
+            "path": "Files/File_1691716475389010_136476.oprfb"
+        }
+    },
+    "1691716476177770:136943": {
+        "IResourceController": {
+            "public": {
+                "path": "RainVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "9a1f7ca6eab24f17e5a4651bc60f5aed"
+            }
+        }
+    },
+    "1691716510579325:183856": {
+        "IFileManager": {
+            "path": "Files/File_1691716510579325_183856.oprfb"
+        }
+    }
+}

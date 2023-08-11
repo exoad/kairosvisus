@@ -1,0 +1,39 @@
+{
+    "1691693190124383:1568143": {
+        "IFileManager": {
+            "path": "Files/File_1691693190124383_1568143"
+        }
+    },
+    "1691693190127393:1568144": {
+        "IResourceController": {
+            "name": "Moon",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691693190127401:1568145",
+            "fileId": "1691693190124383:1568143",
+            "originalId": "1691693190182645:1568174",
+            "publicId": "1691693191118449:1568562",
+            "expected_hash": "e2e0f7690e3d26c33b3b7827eec6413a"
+        },
+        "IResourceManager": {
+            "uid": "1691693190127401:1568145",
+            "name": "Files/File_1691693190124383_1568143",
+            "flags": 1
+        }
+    },
+    "1691693190182645:1568174": {
+        "IFileManager": {
+            "path": "Files/File_1691693190182645_1568174.lsmat"
+        }
+    },
+    "1691693191118449:1568562": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Moon_2K/Materials/Moon.lsmat",
+                "hash": "1b5d5ed212847bedbcf8723a71313161"
+            }
+        }
+    }
+}

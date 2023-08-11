@@ -1,0 +1,39 @@
+{
+    "1691719345457668:1527227": {
+        "IFileManager": {
+            "path": "Files/File_1691719345457668_1527227"
+        }
+    },
+    "1691719345459723:1527228": {
+        "IResourceController": {
+            "name": "sun_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691719345459729:1527229",
+            "fileId": "1691719345457668:1527227",
+            "originalId": "1691719345503319:1527242",
+            "publicId": "1691719345666826:1527251",
+            "expected_hash": "2026bf07c9410b39ca54c8eac8ff6ac1"
+        },
+        "IResourceManager": {
+            "uid": "1691719345459729:1527229",
+            "name": "Files/File_1691719345457668_1527227",
+            "flags": 1
+        }
+    },
+    "1691719345503319:1527242": {
+        "IFileManager": {
+            "path": "Files/File_1691719345503319_1527242.lsmat"
+        }
+    },
+    "1691719345666826:1527251": {
+        "IResourceController": {
+            "public": {
+                "path": "sun_material.lsmat",
+                "hash": "668104b274abc607a234847b489c9cf7"
+            }
+        }
+    }
+}

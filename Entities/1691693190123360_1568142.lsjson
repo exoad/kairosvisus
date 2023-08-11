@@ -1,0 +1,22 @@
+{
+    "1691693190123360:1568142": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691693191117110:1568561",
+            "resources": [
+                "1691693190127393:1568144"
+            ]
+        }
+    },
+    "1691693191117110:1568561": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Moon_2K/Materials"
+            }
+        }
+    }
+}

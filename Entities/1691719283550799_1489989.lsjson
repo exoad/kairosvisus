@@ -1,0 +1,72 @@
+{
+    "1691719283523293:1489980": {
+        "IFileManager": {
+            "path": "Files/File_1691719283523293_1489980.jpg"
+        }
+    },
+    "1691719283550799:1489989": {
+        "IResourceController": {
+            "name": "sun",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691719283564981:1489990",
+            "fileId": "1691719283523293:1489980",
+            "originalId": "1691719283567638:1490000",
+            "publicId": "1691719283721049:1490040",
+            "expected_hash": "7ce3a845bb3ca672ddd6660fd477de1f",
+            "additional": {
+                "originHash": "7ce3a845bb3ca672ddd6660fd477de1f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691719283564981:1489990",
+            "name": "Files/File_1691719283523293_1489980.jpg",
+            "flags": 1
+        }
+    },
+    "1691719283564981:1489990": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "8388608",
+                "compressedSize": "821076",
+                "extension": "jpg",
+                "originalRAM": "8388608",
+                "originalSize": "821076",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691719283589769:1490001"
+        }
+    },
+    "1691719283567638:1490000": {
+        "IFileManager": {
+            "path": "Files/File_1691719283567638_1490000.jpg"
+        }
+    },
+    "1691719283589769:1490001": {
+        "IFileManager": {
+            "path": "Files/File_1691719283589769_1490001.jpg"
+        }
+    },
+    "1691719283721049:1490040": {
+        "IResourceController": {
+            "public": {
+                "path": "sun.jpg",
+                "hash": "7ce3a845bb3ca672ddd6660fd477de1f"
+            }
+        }
+    }
+}

@@ -14,7 +14,7 @@
             "uid": "1691427992145067:2439893",
             "fileId": "1691427992142006:2439891",
             "publicId": "1691427992146531:2439898",
-            "expected_hash": "86ad11088020cf30bf4462db74fad225"
+            "expected_hash": "21d09138803b31b67c769410812b244e"
         },
         "IResourceManager": {
             "uid": "1691427992145067:2439893",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "src/app.js",
-                "hash": "86ad11088020cf30bf4462db74fad225"
+                "hash": "21d09138803b31b67c769410812b244e"
             }
         }
     }

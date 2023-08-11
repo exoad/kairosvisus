@@ -1,0 +1,42 @@
+{
+    "1691690057563818:217902": {
+        "IFileManager": {
+            "path": "Files/File_1691690057563818_217902.png"
+        }
+    },
+    "1691690057567159:217903": {
+        "IResourceController": {
+            "name": "Night",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691690057568669:217904",
+            "fileId": "1691690057563818:217902",
+            "originalId": "1691690057569166:217909",
+            "publicId": "1691690057573639:217910",
+            "expected_hash": "df2263cffd75f799d46a9ace1b4b03e5",
+            "additional": {
+                "originHash": "df2263cffd75f799d46a9ace1b4b03e5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691690057568669:217904",
+            "name": "Files/File_1691690057563818_217902.png",
+            "flags": 1
+        }
+    },
+    "1691690057569166:217909": {
+        "IFileManager": {
+            "path": "Files/File_1691690057569166_217909.png"
+        }
+    },
+    "1691690057573639:217910": {
+        "IResourceController": {
+            "public": {
+                "path": "Night.png",
+                "hash": "df2263cffd75f799d46a9ace1b4b03e5"
+            }
+        }
+    }
+}

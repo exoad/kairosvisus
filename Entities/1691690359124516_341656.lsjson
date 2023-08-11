@@ -1,0 +1,24 @@
+{
+    "1691690359124516:341656": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691690359124767:341657",
+            "resources": [
+                "1691690359165656:341676",
+                "1691718955952904:1335067",
+                "1691718956025541:1335118"
+            ]
+        }
+    },
+    "1691690359124767:341657": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Fog Resources/Meshes"
+            }
+        }
+    }
+}

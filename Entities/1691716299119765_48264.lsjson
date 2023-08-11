@@ -1,0 +1,39 @@
+{
+    "1691716299007948:48237": {
+        "IResourceController": {
+            "public": {
+                "path": "Uber Diffuse.lsmat",
+                "hash": "4f91a2d15b93bf1105c8ed322f5391a1"
+            }
+        }
+    },
+    "1691716299117673:48263": {
+        "IFileManager": {
+            "path": "Files/File_1691716299117673_48263"
+        }
+    },
+    "1691716299119765:48264": {
+        "IResourceController": {
+            "name": "Uber Diffuse",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691716299119776:48265",
+            "fileId": "1691716299117673:48263",
+            "originalId": "1691716299161194:48269",
+            "publicId": "1691716299007948:48237",
+            "expected_hash": "28e720ed3354bc3c0293ac53ed296b97"
+        },
+        "IResourceManager": {
+            "uid": "1691716299119776:48265",
+            "name": "Files/File_1691716299117673_48263",
+            "flags": 1
+        }
+    },
+    "1691716299161194:48269": {
+        "IFileManager": {
+            "path": "Files/File_1691716299161194_48269.lsmat"
+        }
+    }
+}

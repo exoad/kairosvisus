@@ -1,0 +1,905 @@
+{
+    "lens_id": "",
+    "document_id": "YTFGFo9PvZ8TeyXrSyF-",
+    "original_document_id": "ZKcx-0BVw8WLo1Wj53em",
+    "version": "32",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "restricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "49",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "49",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            }
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Kairos Visus",
+            "applicability": "3",
+            "compatibility_descriptors": [
+                "mobile",
+                "spectacles",
+                "web"
+            ],
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "activation_camera": "front",
+            "Spectacles2021UseAllowed": "true"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Masked",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": [
+                {
+                    "k": "1691427537417337:2328717",
+                    "v": {
+                        "api_spec_id": "70638c2c-c1fc-4200-ab37-fab041ca8542",
+                        "name": "AccuWeather",
+                        "provider_name": "AccuWeather",
+                        "description": "Build Lenses with historical and real-time weather data across an expansive list of cities. Please note, AccuWeather APIs cannot be used in Sponsored Lenses. ",
+                        "host": "weather-service-prod.snap",
+                        "documentation_url": "https:\/\/docs.snap.com\/lens-studio\/references\/guides\/lens-features\/remote-apis\/weather-api-documentation",
+                        "endpoints": [
+                            {
+                                "ref_id": "daily_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "hourly_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "hours",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition_and_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "hourly_forecast_hours",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "daily_forecast_days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            }
+                        ],
+                        "local_only": "false",
+                        "visibility": "external",
+                        "source": "internal",
+                        "restricted_js_api_permissions": ""
+                    }
+                },
+                {
+                    "k": "1691590169768491:574736",
+                    "v": {
+                        "api_spec_id": "e3f2def8-9091-4d65-ba2e-0408a822d257",
+                        "name": "AccuWeather (no user location)",
+                        "provider_name": "AccuWeather",
+                        "description": "Build Lenses with historical and real-time weather data across an expansive list of cities. Please note, AccuWeather APIs cannot be used in Sponsored Lenses.\n\nThis version of the API requires latitude and longitude because it does not detect the user's location.",
+                        "host": "weather-service-prod.snap",
+                        "documentation_url": "https:\/\/docs.snap.com\/lens-studio\/references\/guides\/lens-features\/remote-apis\/weather-api-documentation",
+                        "endpoints": [
+                            {
+                                "ref_id": "daily_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "hourly_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "hours",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition_and_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "hourly_forecast_hours",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "daily_forecast_days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    }
+                                ]
+                            }
+                        ],
+                        "local_only": "false",
+                        "visibility": "external",
+                        "source": "internal",
+                        "restricted_js_api_permissions": ""
+                    }
+                },
+                {
+                    "k": "1691600731075128:4061352",
+                    "v": {
+                        "api_spec_id": "70638c2c-c1fc-4200-ab37-fab041ca8542",
+                        "name": "AccuWeather",
+                        "provider_name": "AccuWeather",
+                        "description": "Build Lenses with historical and real-time weather data across an expansive list of cities. Please note, AccuWeather APIs cannot be used in Sponsored Lenses. ",
+                        "host": "weather-service-prod.snap",
+                        "documentation_url": "https:\/\/docs.snap.com\/lens-studio\/references\/guides\/lens-features\/remote-apis\/weather-api-documentation",
+                        "endpoints": [
+                            {
+                                "ref_id": "daily_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "hourly_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "hours",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition_and_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "hourly_forecast_hours",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "daily_forecast_days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            }
+                        ],
+                        "local_only": "false",
+                        "visibility": "external",
+                        "source": "internal",
+                        "restricted_js_api_permissions": ""
+                    }
+                },
+                {
+                    "k": "1691600832292104:4130820",
+                    "v": {
+                        "api_spec_id": "e3f2def8-9091-4d65-ba2e-0408a822d257",
+                        "name": "AccuWeather (no user location)",
+                        "provider_name": "AccuWeather",
+                        "description": "Build Lenses with historical and real-time weather data across an expansive list of cities. Please note, AccuWeather APIs cannot be used in Sponsored Lenses.\n\nThis version of the API requires latitude and longitude because it does not detect the user's location.",
+                        "host": "weather-service-prod.snap",
+                        "documentation_url": "https:\/\/docs.snap.com\/lens-studio\/references\/guides\/lens-features\/remote-apis\/weather-api-documentation",
+                        "endpoints": [
+                            {
+                                "ref_id": "daily_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "hourly_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "hours",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition_and_forecast",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "hourly_forecast_hours",
+                                        "is_optional": "true"
+                                    },
+                                    {
+                                        "name": "daily_forecast_days",
+                                        "is_optional": "true"
+                                    }
+                                ]
+                            },
+                            {
+                                "ref_id": "current_condition",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "lat",
+                                        "is_optional": "false"
+                                    },
+                                    {
+                                        "name": "lng",
+                                        "is_optional": "false"
+                                    }
+                                ]
+                            }
+                        ],
+                        "local_only": "false",
+                        "visibility": "external",
+                        "source": "internal",
+                        "restricted_js_api_permissions": ""
+                    }
+                }
+            ]
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1691437176453891:4125068",
+                    "v": "5nfyXTrDoezZlY6f8Pmows"
+                },
+                {
+                    "k": "1691676051538399:423230",
+                    "v": "6l75YvXsRUM0PuXLWSsaQ6"
+                },
+                {
+                    "k": "1691676059428185:427973",
+                    "v": "13QGAEUt3SX0ECiv1TIB31"
+                },
+                {
+                    "k": "1691690358592087:341478",
+                    "v": "1zkOPJ242q21TMuiXlbb3J"
+                },
+                {
+                    "k": "1691692824162851:1371505",
+                    "v": "4bzUXhpCKQkRBPvWXBYlTA"
+                },
+                {
+                    "k": "1691716475347186:136463",
+                    "v": "6l75YvXsRUM0PuXLWSsaQ6"
+                },
+                {
+                    "k": "1691718955544313:1334864",
+                    "v": "1zkOPJ242q21TMuiXlbb3J"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1691716481468434:142676",
+                        "v": {
+                            "prefab": "1691716475347186:136463",
+                            "mapping": [
+                                {
+                                    "k": "1691716476170791:136923",
+                                    "v": "1691716481468434:142676"
+                                },
+                                {
+                                    "k": "1691716476170839:136924",
+                                    "v": "1691716481496111:142932"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1691718645263768:1122315",
+                        "v": {
+                            "prefab": "1691693190984531:1568473",
+                            "mapping": [
+                                {
+                                    "k": "1691693190976836:1568447",
+                                    "v": "1691718645263768:1122315"
+                                },
+                                {
+                                    "k": "1691693190979483:1568453",
+                                    "v": "1691718645265040:1122317"
+                                },
+                                {
+                                    "k": "1691693190981397:1568457",
+                                    "v": "1691718645266159:1122319"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1691718960992633:1340946",
+                        "v": {
+                            "prefab": "1691718955544313:1334864",
+                            "mapping": [
+                                {
+                                    "k": "1691718956076551:1335158",
+                                    "v": "1691718960992633:1340946"
+                                },
+                                {
+                                    "k": "1691718956076580:1335159",
+                                    "v": "1691718960994276:1340960"
+                                },
+                                {
+                                    "k": "1691718956076585:1335160",
+                                    "v": "1691718960995406:1340962"
+                                },
+                                {
+                                    "k": "1691718956076629:1335161",
+                                    "v": "1691718961000863:1340976"
+                                },
+                                {
+                                    "k": "1691718956076634:1335162",
+                                    "v": "1691718961006108:1341036"
+                                },
+                                {
+                                    "k": "1691718956076651:1335163",
+                                    "v": "1691718961011510:1341050"
+                                },
+                                {
+                                    "k": "1691718956076655:1335164",
+                                    "v": "1691718961013388:1341052"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1691719323102125:1515067",
+                        "v": {
+                            "prefab": "1691693190984531:1568473",
+                            "mapping": [
+                                {
+                                    "k": "1691693190976836:1568447",
+                                    "v": "1691719323102125:1515067"
+                                },
+                                {
+                                    "k": "1691693190979483:1568453",
+                                    "v": "1691719323104129:1515069"
+                                },
+                                {
+                                    "k": "1691693190981397:1568457",
+                                    "v": "1691719323105957:1515071"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1691693190984531:1568473",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1691693190976836:1568447"
+                        },
+                        {
+                            "k": [
+                                "Moon"
+                            ],
+                            "v": "1691693190979483:1568453"
+                        },
+                        {
+                            "k": [
+                                "Moon",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1691693190981397:1568457"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.49.0"
+}

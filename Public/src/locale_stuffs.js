@@ -237,6 +237,4 @@ global.weatherTypesArr.forEach((x) => x.enabled = false);
 
 global.useFahrenheit = false;
 
-global.parseTemperature = (json) =>
-
 global.fahrenheightToCelsius = (f) => (f - 32) * (5 / 9);
